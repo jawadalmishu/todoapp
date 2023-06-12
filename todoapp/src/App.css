@@ -1,0 +1,12 @@
+.add_btn{
+  text-align: right;
+}
+
+.container{
+  overflow: auto;
+}
+
+.bt{
+  column-span: 2;
+  text-align: right;
+}
